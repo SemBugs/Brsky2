@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'AvenirNext-Bold';
+   font-display: swap;
+   src: url('AvenirNext-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'MavenPro-Regular';
+   font-display: swap;
+   src: url('MavenPro-Regular/font.ttf');
+}
